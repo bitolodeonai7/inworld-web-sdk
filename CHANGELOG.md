@@ -1,3 +1,9 @@
+## [Unreleased]
+
+### Added
+
+- Allow to propagate previous dialog to new connection
+
 ## [1.5.1] - 2023-08-04
 
 - Use correct link to GitHub page
