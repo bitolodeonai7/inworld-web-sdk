@@ -6,6 +6,7 @@ export const configuration = {
   chatView: CHAT_VIEW.TEXT,
   scene: { name: Config.INWORLD_SCENE },
   player: { name: 'Participant' },
+  continuation: { enabled: false },
 };
 
 export const DEFAULT_RPM_AVATAR =
